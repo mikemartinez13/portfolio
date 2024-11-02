@@ -10,6 +10,7 @@
 
 ## Research Experience
 **Undergraduate Researcher with William & Mary Dataphys**
+
 My work under Cristiano Fanelli began in summer of 2023, with my first project focusing on Graph Neural Networks for particle track reconstruction. Since January 2024, I've been working closely with Prof. Fanelli and his PhD students to apply generative AI to reconstruct Cherenkov light patterns from the DIRC Detector at the Jefferson Lab. The investigation using VAEs and Normalizing Flows culminated in the [Deep(er)RICH paper](https://arxiv.org/pdf/2407.07376), and I'm now investigating this problem using Diffusion models for my Honors Thesis and a possible publication. 
 
 ## Coursework
