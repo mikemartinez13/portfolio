@@ -1,5 +1,5 @@
 title: Michael C. Martinez
-# logo: 
-# description
-#show_downloads: true
+logo: /assets/headshot-modified.png 
+description: "Applied Mathematics and Data Science student at William & Mary."
+show_downloads: true
 theme: jekyll-theme-minimal
