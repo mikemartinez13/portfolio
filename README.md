@@ -7,7 +7,7 @@ I'm currently a fourth year undergrad at William & Mary working under [Prof. Hai
 
 I'm broadly interested in generative modeling for scientific + natural language domains,  specifically efficient model design and theory. I'm also into computer vision and object detection. 
 
-Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me on Strava :)
+Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me on [Strava](https://strava.app.link/uUsvAFQHgZb) :)
 
 <a href="assets\Martinez-Michael-CV.pdf" download> CV</a> (as of Dec. 2025)
 
@@ -55,7 +55,7 @@ Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me 
 * Data Engineering Intern @ Johns Hopkins Supply Chain (_June - August 2024_, Baltimore, MD)
 
 
-## Projects
-
+## Other
+Currently reading _[The Land Trap](https://www.penguinrandomhouse.com/books/753001/the-land-trap-by-mike-bird/)_ by Mike Bird. Great history of land as a financial asset!
 
 

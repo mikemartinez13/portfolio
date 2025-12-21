@@ -22,6 +22,9 @@ a {
 }
 
 // This fixes the sidebar text/links
-header p, header li {
+header p {
   color: #bbb;
+  font-size: 18px;    /* Increase or decrease this number as needed */
+  line-height: 1.4;   /* Adds a little space between lines if it wraps */
+  font-weight: 500;   /* Optional: makes the text slightly thicker */
 }
