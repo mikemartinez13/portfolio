@@ -9,6 +9,8 @@ I'm broadly interested in generative modeling for scientific + natural language 
 
 Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me on Strava :)
 
+<a href="assets\Martinez-Michael-CV.pdf" download> CV</a> (as of Dec. 2025)
+
 ## Publications
 
 
