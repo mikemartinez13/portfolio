@@ -1,45 +1,59 @@
-# Mathematics & Data Science
-#### Technical Skills: Python, SQL, R, PyTorch, TensorFlow, High Performance Computing
+# Michael C. Martinez
 
-## Education
-- B.S., Applied Mathematics | William & Mary (_August 2022 - Present_)
-- B.S., Data Science | William & Mary (_August 2022 - Present_)
-  
-## Internship Experience
-**Data Engineering Intern @ Johns Hopkins Supply Chain (_June - August 2024_)**
+Math + DS @ William & Mary
 
-## Research Experience
-**Undergraduate Researcher with William & Mary Dataphys**
 
-My work under Cristiano Fanelli began in summer of 2023, with my first project focusing on Graph Neural Networks for particle track reconstruction. Since January 2024, I've been working closely with Prof. Fanelli and his PhD students to apply generative AI to reconstruct Cherenkov light patterns from the DIRC Detector at the Jefferson Lab. The investigation using VAEs and Normalizing Flows culminated in the [Deep(er)RICH paper](https://arxiv.org/pdf/2407.07376), and I'm now investigating this problem using Diffusion models for my Honors Thesis and a possible publication. 
+I'm currently a fourth year undergrad at William & Mary working under [Prof. Haipeng Chen](https://haipeng-chen.github.io/) in the Data-Driven Intelligence (D3i) Lab working on diffusion language models. Previously, I worked with [Prof. Cristiano Fanelli](https://cristianofanelli.com/) on generative modeling for Imaging Cherenkov Detectors (including the JLab GlueX and the high-performance DIRC). I also wrote my undergrad thesis with Prof. Fanelli. 
 
-## Coursework
-**Statistical Learning:** Theoretical introduction 
+I'm broadly interested in generative modeling for scientific + natural language domains,  specifically efficient model design and theory. I'm also into computer vision and object detection. 
 
-**Automation & Workflows:**
+Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me on Strava :)
 
-**Math of Financial Economics:**
+## Publications
 
-**Time Series Analysis:**
 
-**Probability**
+<table border="0" style="width:100%;">
+  <tr>
+    <td width="25%" valign="top">
+      <table border="0" style="width:100%; border-collapse:collapse;">
+        <tr>
+            <td valign="top" style="text-align:center;">
+                <span style="display:inline-block; margin-bottom:1px; background-color:#1a73e8; color:white;
+             padding:3px 8px; border-radius:4px; font-size:12px; font-weight:bold;">
+  MLST 2025
+</span>
+            </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <img src="assets\cherenkov.png" alt="Cherenkov Simulation"
+                 style="width:100%; border-radius:8px;">
+          </td>
+        </tr>
+      </table>
+    </td>
 
-**Ordinary Differential Equations**
+<td width="75%" valign="top">
+    <h3 style="margin-top: 0;"></h3>
+    <p>
+    Generative models for fast simulation of Cherenkov detectors at the electron-ion collider, James Giroux, <b>Michael Martinez</b>, and Cristiano Fanelli <br>
+    <i>Machine Learning: Science &amp; Technology</i>, 2025
+    </p>
+    <p>
+    <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ae0f72/pdf">Paper</a> |
+    <a href="https://github.com/wmdataphys/Deep_hpDIRC">Code</a> |
+    </p>
+</td>
+  </tr>
+</table>
 
-**Foundations of Math**
+
+## Internships
+* Quant Risk Intern @ Lazard Asset Management  (_June - August 2025_, New York, NY) 
+* Data Engineering Intern @ Johns Hopkins Supply Chain (_June - August 2024_, Baltimore, MD)
+
 
 ## Projects
-
-## What am I Reading?
-I'm truly an old soul, so I read in my free time. Here's what I'm reading right now: 
-
-![The Making of the Atomic Bomb](/assets/making-of-atom-bomb.jpg)
-
-A great historical and scientific overview of the discoveries, political context, and researchers that led to he discovery of fission and the creation of the bomb. Richard Rhodes does an incredible job at explaining nuclear chemistry in an exciting way to a general audience, and he gives amazingly nuanced biographies on each scientist, philanthropist, and politician.  
-
-![50 Challenging Problems in Probability](/assets/50-challenging-problems.jpg)
-
-![A Radical Approach to Real Analysis](/assets/radical-approach-to-analysis.jpg)
 
 
 
