@@ -38,7 +38,7 @@ Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me 
 <td width="75%" valign="top">
     <h3 style="margin-top: 0;"></h3>
     <p>
-    Generative models for fast simulation of Cherenkov detectors at the electron-ion collider, James Giroux, <b>Michael Martinez</b>, and Cristiano Fanelli <br>
+    Generative models for fast simulation of Cherenkov detectors at the electron-ion collider <br> James Giroux, <b>Michael Martinez</b>, and Cristiano Fanelli <br>
     <i>Machine Learning: Science &amp; Technology</i>, 2025
     </p>
     <p>
