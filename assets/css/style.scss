@@ -35,14 +35,6 @@ a:hover {
   padding: 20px 28px;
 }
 
-// This fixes the sidebar text/links
-header p {
-  color: #bbb;
-  font-size: 18px;
-  line-height: 1.45;
-  font-weight: 500;
-}
-
 header,
 section {
   background: rgba(255, 255, 255, 0.02);
@@ -51,9 +43,30 @@ section {
   padding: 18px 20px;
 }
 
+header h1 {
+  margin: 0 0 14px;
+}
+
 header img {
+  display: block;
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.12);
+  margin-bottom: 8px;
+}
+
+// Caption under the sidebar image
+header p {
+  color: #bbb;
+  font-size: 14px;
+  line-height: 1.35;
+  font-weight: 500;
+  margin: 0;
+}
+
+// Hide redundant GitHub sidebar/footer text
+header .view,
+footer {
+  display: none;
 }
 
 section h2 {
