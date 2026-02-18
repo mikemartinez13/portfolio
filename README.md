@@ -3,11 +3,11 @@
 Math + DS @ William & Mary
 
 
-I'm currently a fourth year undergrad at William & Mary working under [Prof. Haipeng Chen](https://haipeng-chen.github.io/) in the Data-Driven Intelligence (D3i) Lab working on diffusion language models. Previously, I worked with [Prof. Cristiano Fanelli](https://cristianofanelli.com/) on generative modeling for Imaging Cherenkov Detectors (including the JLab GlueX and the high-performance DIRC). I also wrote my undergrad thesis with Prof. Fanelli. 
+I'm currently a fourth year undergrad at William & Mary working under [Prof. Haipeng Chen](https://haipeng-chen.github.io/) in the Data-Driven Intelligence (D3i) Lab, working on diffusion language models. Previously, I worked with [Prof. Cristiano Fanelli](https://cristianofanelli.com/) on generative modeling for Imaging Cherenkov Detectors (including the JLab GlueX and the high-performance DIRC). I also wrote and defended my undergrad thesis with Prof. Fanelli. 
 
-I'm broadly interested in generative modeling for scientific + natural language domains,  specifically efficient model design and theory. I'm also into computer vision and object detection. 
+I'm broadly interested in generative modeling for scientific + natural language domains,  specifically efficient model design and theory. In particular, I've spent most of my time specializing in diffusion models and their variations (such as MDMs). I've also played with deploying computer vision and object detection models for hackathons.
 
-Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me on [Strava](https://strava.app.link/uUsvAFQHgZb) :)
+Outside of research, I enjoy reading, running, swimming, and hiking! Add me on [Strava](https://strava.app.link/uUsvAFQHgZb) :)
 
 <a href="assets\Martinez-Michael-CV.pdf" download> CV</a> (as of Dec. 2025)
 
@@ -56,6 +56,8 @@ Outside of research, I enjoy reading, running, hiking, and snowboarding! Add me 
 
 
 ## Other
-Currently reading _[The Land Trap](https://www.penguinrandomhouse.com/books/753001/the-land-trap-by-mike-bird/)_ by Mike Bird. Great history of land as a financial asset!
+Just finished reading _[The Land Trap](https://www.penguinrandomhouse.com/books/753001/the-land-trap-by-mike-bird/)_ by Mike Bird. Great history of land as a financial asset!
+
+Now reading _Moby Dick_. 
 
 
