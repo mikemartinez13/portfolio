@@ -35,12 +35,18 @@ a:hover {
   padding: 20px 28px;
 }
 
-header,
 section {
   background: rgba(255, 255, 255, 0.02);
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 14px;
   padding: 18px 20px;
+}
+
+header {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
 }
 
 header h1 {
@@ -51,7 +57,7 @@ header img {
   display: block;
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.12);
-  margin-bottom: 8px;
+  margin-bottom: 14px;
 }
 
 // Caption under the sidebar image
@@ -61,6 +67,7 @@ header p {
   line-height: 1.35;
   font-weight: 500;
   margin: 0;
+  text-align: center;
 }
 
 // Hide redundant GitHub sidebar/footer text
@@ -98,9 +105,12 @@ table img {
     padding: 12px 14px;
   }
 
-  header,
   section {
     padding: 14px 15px;
     border-radius: 12px;
+  }
+
+  header {
+    padding: 0;
   }
 }
