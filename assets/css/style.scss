@@ -6,25 +6,88 @@
 body {
   background-color: #000000;
   color: #f0f0f0;
+  line-height: 1.65;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
 }
 
 a {
   color: #3399ff;
+  text-decoration: none;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+a:hover {
+  color: #3399ff;
+  opacity: 0.85;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 // This ensures the main container also turns black
 .wrapper {
   background-color: #000000;
+  max-width: 1000px;
+  padding: 20px 28px;
 }
 
 // This fixes the sidebar text/links
 header p {
   color: #bbb;
-  font-size: 18px;    /* Increase or decrease this number as needed */
-  line-height: 1.4;   /* Adds a little space between lines if it wraps */
-  font-weight: 500;   /* Optional: makes the text slightly thicker */
+  font-size: 18px;
+  line-height: 1.45;
+  font-weight: 500;
+}
+
+header,
+section {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 18px 20px;
+}
+
+header img {
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+section h2 {
+  font-size: 1.35em;
+  margin-top: 0.6em;
+  margin-bottom: 0.55em;
+}
+
+section p,
+section li {
+  font-size: 1.02em;
+}
+
+section ul {
+  margin-top: 0.25em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table img {
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 960px) {
+  .wrapper {
+    padding: 12px 14px;
+  }
+
+  header,
+  section {
+    padding: 14px 15px;
+    border-radius: 12px;
+  }
 }
