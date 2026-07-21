@@ -1,15 +1,15 @@
 # Michael C. Martinez
 
-Math + DS @ William & Mary
+CS @ UVA
 
 
-I'm currently a fourth year undergrad at William & Mary working under [Prof. Haipeng Chen](https://haipeng-chen.github.io/) in the Data-Driven Intelligence (D3i) Lab, working on diffusion language models. Previously, I worked with [Prof. Cristiano Fanelli](https://cristianofanelli.com/) on generative modeling for Imaging Cherenkov Detectors (including the JLab GlueX and the high-performance DIRC). I also wrote and defended my undergrad thesis with Prof. Fanelli. 
+I'm currently an incoming MS student at UVA working with [Prof. Nando Fioretto](https://nandofioretto.github.io/) on developing generative frameworks to aid in the discovery of inorganic materials. Previously, I studied math and data science at William & Mary, where I also worked with [Prof. Haipeng Chen](https://haipeng-chen.github.io/) in the Data-Driven Intelligence (D3i) Lab, working on diffusion language models, and with [Prof. Cristiano Fanelli](https://cristianofanelli.com/) on generative modeling for Imaging Cherenkov Detectors (including the JLab GlueX and the high-performance DIRC). I also wrote and defended my undergrad thesis with Prof. Fanelli. 
 
-I'm broadly interested in generative modeling for scientific + natural language domains,  specifically efficient model design and theory. In particular, I've spent most of my time specializing in diffusion models and their variations (such as MDMs). I've also played with deploying computer vision and object detection models for hackathons.
+I'm broadly interested in generative modeling for scientific + natural language domains, specifically efficient model design and theory. In particular, I've spent most of my time specializing in diffusion models, flow matching models, and other variations (such as MDMs). I've also played with deploying computer vision and object detection models for hackathons.
 
-Outside of research, I enjoy reading, running, swimming, and hiking! Add me on [Strava](https://strava.app.link/uUsvAFQHgZb) :)
+Outside of research, I enjoy reading, running, swimming, and hiking! Add me on [Strava](https://strava.app.link/uUsvAFQHgZb).
 
-<a href="assets\Martinez-Michael-CV.pdf" download> CV</a> (as of Dec. 2025)
+<a href="assets\Martinez-Michael-CV.pdf" download> CV</a> (as of July 2026)
 
 ## Publications
 
@@ -51,6 +51,7 @@ Outside of research, I enjoy reading, running, swimming, and hiking! Add me on [
 
 
 ## Internships
+* Graduate Researcher @ RAISE Lab (_May - present_, Charlottesville, VA)
 * Quant Risk Intern @ Lazard Asset Management  (_June - August 2025_, New York, NY) 
 * Data Engineering Intern @ Johns Hopkins Supply Chain (_June - August 2024_, Baltimore, MD)
 
